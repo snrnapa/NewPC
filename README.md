@@ -1,5 +1,55 @@
 # NewPC
 
+## smartPhone
+
+https://hikkoshizamurai.jp/soldi/articles/good-cospa_simfree/
+
+SHARP「AQUOS wish2」
+
+![](imgs/2023-03-05-22-18-33.png)
+
+
+![](imgs/2023-03-05-22-18-44.png)
+
+
+
+***
+
+## Sayaka PC
+
+### CPU性能比較サイト
+
+https://pcfreebook.com/article/450856544.html
+
+#### CPU
+
+![](imgs/2023-03-05-22-31-56.png)
+
+#### MB
+
+![](imgs/2023-03-05-22-34-18.png)
+
+#### メモリ
+
+
+![](imgs/2023-03-05-22-36-17.png)
+
+#### 電源
+
+![](imgs/2023-03-05-22-38-06.png)
+
+#### SSD 
+
+![](imgs/2023-03-05-22-38-49.png)
+
+
+#### グラボ（妥協）
+
+
+![](imgs/2023-03-05-22-43-20.png)
+
+***
+
 ## Napa`memory
 
 napa@napa-dynabook-R73-D:~$ sudo dmidecode --type memory
